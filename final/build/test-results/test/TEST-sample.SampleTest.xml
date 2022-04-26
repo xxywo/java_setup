@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sample.SampleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-26T04:02:19" hostname="xuyuandeAir.hsd1.tx.comcast.net" time="0.068">
+  <properties/>
+  <testcase name="verifySampleWork()" classname="sample.SampleTest" time="0.062"/>
+  <testcase name="Canary()" classname="sample.SampleTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
